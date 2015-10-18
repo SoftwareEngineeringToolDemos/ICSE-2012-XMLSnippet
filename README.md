@@ -1,5 +1,5 @@
 # ICSE-2012-XMLSnippet
-Mining Application Repository to Recommend XML Conf iguration Snippets 
+Mining Application Repository to Recommend XML Configuration Snippets 
 This repository contains information related to the tool XMLSnippet presented in ICSE, 2012.
 The tool was originally presented in <a href="http://dl.acm.org.prox.lib.ncsu.edu/citation.cfm?id=2337223.2337448&coll=DL&dl=GUIDE&CFID=722556246&CFTOKEN=87998291">this paper.</a>
 
