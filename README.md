@@ -10,7 +10,7 @@ The video of the working of the tool.
 <a href="http://gdm.fudan.edu.cn/GDMWiki/attach/XMLSnippet/XMLSnippetDemo.wmv">Original-demo-link.</a>
 
 
-In this repository, for ExampleTool you will find:
+In this repository, for XMLSnippet you will find:
 :x: Source code (not available)
 :x: Executable tool (not available)
 
