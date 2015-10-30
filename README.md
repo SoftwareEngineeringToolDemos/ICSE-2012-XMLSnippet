@@ -13,6 +13,6 @@ In this repository, for XMLSnippet you will find:
 * :white_check_mark: <a href="http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=XMLSnippet%20Downloads">Source code (available).</a>
 * :x: Executable tool (not available)
 
-I thank Dr.Yanghua Xiao for helping me with the project.
+Thanks to Dr.Yanghua Xiao for helping me in establishing this repository. 
 
 This repository was constructed by <a href="https://github.com/saileshbvk">Venkata Krishna Sailesh Bommisetti</a> under the supervision of <a href="https://github.com/CaptainEmerson">Dr.Emerson Murphy-Hill.</a>
