@@ -4,7 +4,7 @@ This repository contains information related to the tool XMLSnippet presented in
 The tool was originally presented in <a href="http://dl.acm.org.prox.lib.ncsu.edu/citation.cfm?id=2337223.2337448&coll=DL&dl=GUIDE&CFID=722556246&CFTOKEN=87998291">this paper.</a>
 
 This repository _is not_ the original repository for this tool.Here are some links to the original project:
-* <a href="http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=XMLSnippet">The Official Project Page.</a>
+* <a href="http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=XMLSnippet">The Official Project Page,including source code.</a>
 * <a href="http://gdm.fudan.edu.cn/GDMWiki/attach/XMLSnippet/XMLSnippetDemo.wmv">A Video of the Tool.</a>
 * <a href="http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=XMLSnippet%20Downloads">The Official Download Link.</a>
 
@@ -15,4 +15,4 @@ In this repository, for XMLSnippet you will find:
 
 I thank Dr.Yanghua Xiao for helping me with the project.
 
-This repository was constructed by <a href="https://github.com/saileshbvk">Venkata Krishna Sailesh Bommisetti</a> under the supervision of <a href="https://github.com/CaptainEmerson">Emerson Murphy-Hill.</a>
+This repository was constructed by <a href="https://github.com/saileshbvk">Venkata Krishna Sailesh Bommisetti</a> under the supervision of <a href="https://github.com/CaptainEmerson">Dr.Emerson Murphy-Hill.</a>
