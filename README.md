@@ -4,13 +4,14 @@ This repository contains information related to the tool XMLSnippet presented in
 The tool was originally presented in <a href="http://dl.acm.org.prox.lib.ncsu.edu/citation.cfm?id=2337223.2337448&coll=DL&dl=GUIDE&CFID=722556246&CFTOKEN=87998291">this paper.</a>
 
 This repository _is not_ the original repository for this tool.Here are some links to the original project:
-* <a href="http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=XMLSnippet%20Downloads">Original-Project-Page.</a>
-* <a href="http://gdm.fudan.edu.cn/GDMWiki/attach/XMLSnippet/XMLSnippetDemo.wmv">Original-demo-link.</a>
+* <a href="http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=XMLSnippet">The Official Project Page.</a>
+* <a href="http://gdm.fudan.edu.cn/GDMWiki/attach/XMLSnippet/XMLSnippetDemo.wmv">A Video of the Tool.</a>
+* <a href="http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=XMLSnippet%20Downloads">The Official Download Link.</a>
 
 
 In this repository, for XMLSnippet you will find:
-* :x: Source code (not available)
-* :white_check_mark: Executable tool (not available)
+* :white_check_mark: <a href="http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=XMLSnippet%20Downloads">Source code (available).</a>
+* :x: Executable tool (not available)
 
 I thank Dr.Yanghua Xiao for helping me with the project.
 
