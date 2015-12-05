@@ -10,8 +10,8 @@ This repository _is not_ the original repository for this tool.Here are some lin
 
 
 In this repository, for XMLSnippet you will find:
-* :white_check_mark: <a href="http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=XMLSnippet%20Downloads">Source code (available).</a>
-* :x: Executable tool (not available)
+* :white_check_mark: <a href="http://gdm.fudan.edu.cn/GDMWiki/Wiki.jsp?page=XMLSnippet%20Downloads">Executable Tool (available).</a>
+* :x: Source code (not available)
 
 Thanks to Dr.Yanghua Xiao for helping me in establishing this repository. 
 
